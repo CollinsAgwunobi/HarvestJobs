@@ -1,0 +1,252 @@
+/* <!-- HEADER SECTION STARTS HERE --> */
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    border-bottom: solid 1px #023301;
+    padding-block: 15px;  
+    position: fixed;
+    background-color:#ffffff;
+    width: 100%;
+}
+ 
+.header ul{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    align-items: end;
+}
+.home{
+    background-color: #023301;
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.service, .work, .contact{
+    padding: 10px 30px 10px 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: solid 2px #023301;
+    font-weight: 600;
+}
+.bell{
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: solid 2px #023301;
+    font-weight: 600;}
+
+    /* LANDING PAGE STARTS HERE */
+
+    .landing_page{
+    width: auto;
+    background-position: center top;
+    background-size: auto;
+    background-repeat: no-repeat;
+
+    }
+    .text{
+        background-color: #023301;
+        color: #ffffff;
+        width: 50%;
+        font-size: 22px;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: left;
+
+    }.start{
+        background-color:#023301;
+        width: 20%;
+        font-size: 20px;
+        padding: 20px;
+        margin-top: 10px;
+        border-radius: 10px;
+        text-align: center;
+        color: #ffffff;
+    }
+    h1{
+        color: whitesmoke;
+    }
+    .container{
+        position: relative;
+    }
+    .text-block{
+        position: absolute;
+        bottom: 30px;
+        right: 20px;
+        padding-left: 50px;
+        padding-right: 10px;
+    }
+    .start{
+        color: whitesmoke;
+    }
+    .start:hover{
+        background-color: #acddab;
+        color: #023301;
+    }
+
+    /* PAGE 2 STARTS HERE */
+    .ellipse{
+        position: relative;
+    }
+    .headerr{
+        position: absolute;
+    }
+    .header{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    border-bottom: solid 1px #023301;
+    padding-block: 15px;  
+    position: fixed;
+    background-color: whitesmoke;
+    width: 100%;
+    }
+    .text2{
+        font-size: 60px;
+        color: black;
+        text-align: center;
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+    .hire-section{
+        color: whitesmoke;
+        background-color: #023301;
+        width: 40%;
+        text-align: left;
+        padding: 30px 50px 30px 50px;
+        font-size: 28px;
+        border-radius: 10px;
+    
+    }
+    .hire-container{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: -20px;
+        margin-bottom: 30px;
+    }
+
+    .apply, .hire{
+        color: whitesmoke;
+        background-color: #023301;
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+        font-size: 25px;
+        border-radius: 10px;
+        margin: 20px;
+        border: 2px solid #023301;
+    }
+    .apply-container{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 70px;
+        padding: 20px;
+    }
+
+
+    /* PAGE 3 STARTS HERE */
+    .frame{
+        padding: 25px;
+        padding-top: 60px;
+        padding-bottom: 5px;
+    }
+    .label{
+        border: 2px solid #023301;
+        width: 150px;
+        padding: 8px;
+        margin-left: 50px;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 20px;
+    }
+    .labell{
+        border: 2px solid #023301;
+        width: 200px;
+        padding: 8px;
+        margin-left: 50px;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 20px;
+    }
+    .seek{
+        font-size: 18px;
+        font-weight: bold;
+        padding: 20px;
+        padding-left: 47px;
+    }
+    .aapplyy{
+        background-color: #023301;
+        padding: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin: 50px;
+        margin-top: -5px;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .aapplyy{
+        font-weight: bold;
+        font-size: 20px;
+        color: #acddab;
+        
+    }
+    .aapplyy:hover{
+        background-color: #acddab;
+        border-color: #023301;
+        border: 2px solid;
+        color: #023301;
+
+    }
+    .container_frame{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 50px;
+    }
+
+    /* PAGE FOUR STARTS HERE */
+
+    .dropdown{
+        display: flex;
+        justify-content: center;
+        padding: 100px;
+    }
+    .description{
+        font-size: 30px;
+    }
+
+    /* PAGE FIVE STARTS HERE */
+    .label5{
+        border: 2px solid #023301;
+        width: 200px;
+        padding: 8px;
+        margin-left: 50px;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 20px;
+    }
+    .framee5{
+        padding: 30px;
+        padding-bottom: 5px;
+        margin-left: 50px;
+    }
+    .fivelebel{
+        padding-top: 120px;
+        padding-left: 30px;
+    }

@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    width: 200px;
+}
+.active{
+color: #acddab;
+border-color: #acddab;
+background: #023301 ;
+cursor: pointer;
+}
+.active1:hover{
+    color: #acddab;
+    border-color: #acddab;
+    background: #023301 ;
+    cursor: pointer;
+    }
+
+.service:hover{
+    color: #acddab;
+    border-color: #acddab;
+    background: #023301 ;
+    cursor: pointer;
+}
+.work:hover{
+    color: #acddab;
+    border-color: #acddab;
+    background: #023301 ;
+    cursor: pointer;
+}
+.contact:hover{
+    color: #acddab !important;
+    border-color: #acddab;
+    background: #023301 ;
+    cursor: pointer;
+}
+li:hover{
+    color: #acddab !important;
+   
+}
+.fa{
+    color: #023301;
+}
+.bell:hover{
+    background: #023301 ;
+    cursor: pointer;
+    color: #acddab !important;
+}
+.fa:hover{
+    color: #acddab;
+}
+.landing{
+    margin-top: 70px;
+    width: 100%;
+    height: 585px;
+}
+.get:hover{
+    color: #023301;
+    
+}
+.logo2{
+    width: 200px;
+}
+
+.apply:hover{
+    color: #023301;
+    background-color: #acddab;
+    border: 2px solid #023301;
+}
+.hire:hover{
+    color: #023301;
+    background-color: #acddab;
+    cursor: pointer;
+    border: 2px solid #023301;
+}
+.frame{
+    width: 520px;
+}
+.frame5{
+    width: 1000px;
+    height: 500px;
+    justify-content: center;
+}
